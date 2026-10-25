@@ -1,0 +1,14 @@
+# Keep personal game data and proprietary artifacts out of this repository.
+*.ab
+*.tar
+*.apk
+*.dex
+*.so
+*.db
+*.xml
+*.log
+*.png
+*.jpg
+*.json
+__pycache__/
+.tools/
